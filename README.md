@@ -11,13 +11,16 @@ This repository demonstrates my skills in Python, SQL, and Big Data (Spark) as p
 - API testing (Postman)
 - Performance testing (JMeter)
 - SQL querying and aggregation
-
-## 📁 Projects
-This repository will include:
-- Python data analysis scripts
-- SQL practice queries
-- Spark data processing project
-- QA-to-data insights examples
+  
+## 📁 Repository Projects
+- Python Data Analysis
+Basic data analysis using pandas and Python.
+- SQL Examples
+SQL joins, aggregation, filtering, and analytical queries.
+- Spark Big Data Project
+Data processing and aggregation using Apache Spark and PySpark.
+- QA Log Analysis
+System log parsing and operational insights using Python.
 
 ## 🚀 Goal
 To build strong foundations in Data Science and apply analytical thinking to real-world datasets.
