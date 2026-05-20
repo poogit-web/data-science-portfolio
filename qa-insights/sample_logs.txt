@@ -1,0 +1,10 @@
+INFO: System started successfully
+INFO: User login successful
+WARNING: API response delayed
+ERROR: Database connection failed
+INFO: Retry attempt initiated
+WARNING: Memory usage high
+ERROR: Timeout during API request
+INFO: System recovered
+ERROR: Authentication failed
+INFO: Daily batch completed
