@@ -10,6 +10,7 @@ This repository demonstrates my skills in Python, SQL, and Big Data (Spark) as p
 - Apache Spark / Databricks
 - API testing (Postman)
 - Performance testing (JMeter)
+- SQL querying and aggregation
 
 ## 📁 Projects
 This repository will include:
